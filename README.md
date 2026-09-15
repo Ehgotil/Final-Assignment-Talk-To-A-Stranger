@@ -14,7 +14,7 @@ Talk To A Stranger is a private journaling application designed to serve as a sa
 * **Immersive Environment:** The app uses custom "glassmorphism" styling, background wallpaper, and ambient rain audio to create a calming writing environment.
 * **Archiving:** All of your past entries are amalgamated by session and can be safely reviewed in the "Archive" tab.
 
-Have fun journaling or processing the repressed trauma that our world breeds.
+
 ---
 
 # File Structure
