@@ -14,13 +14,14 @@ Talk To A Stranger is a private journaling application designed to serve as a sa
 * **Immersive Environment:** The app uses custom "glassmorphism" styling, background wallpaper, and ambient rain audio to create a calming writing environment.
 * **Archiving:** All of your past entries are amalgamated by session and can be safely reviewed in the "Archive" tab.
 
+Have fun journaling or processing the repressed trauma that our world breeds.
 ---
 
 # File Structure
 
 Before running the program, your project folder in PyCharm should look like this:
 
-
+```text
 my-journal-project/
 │
 ├── app.py            # The main Python script containing the application code
@@ -40,4 +41,3 @@ Also make sure you have activated the vfirtual environment. This can be done in 
 To run Talk To A Stranger, run this command in the terminal built into PyCharm after activating the virtual environment:
 streamlit run app.py
 
-Now you're good to go. Have fun journaling or processing the repressed trauma that our world breeds.
