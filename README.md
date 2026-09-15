@@ -2,7 +2,7 @@
 
 Welcome to the **Talk To A Stranger** , a secure, local-first web application built with Python and Streamlit. 
 
-![img.png](img.png)
+![img_1.png](img_1.png)![
 
 # About Talk To A Stranger 
 
